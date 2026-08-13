@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "updated_at_local": "2026-08-13 18:25",
+  "updated_at_local": "2026-08-13 19:44",
   "last_stream": {
     "end_state": "We cleared the Big Meaty Balls of Doom",
     "next_stream_plan": "I have no idea, still stuck in the underground",
@@ -9,5 +9,16 @@
     "essay_prompts": [],
     "misc_notes": ""
   },
-  "backlog": []
+  "backlog": [
+    {
+      "id": "001",
+      "category": "essay",
+      "text": "How Miyazaki uses Darkness / lack of light as a feature and as an \"enemy\" to force the player to slow down.",
+      "submitted_by": "souls40k",
+      "source": "twitch_chat",
+      "created_at_local": "2026-08-13 19:44",
+      "status": "open",
+      "completed_at_local": null
+    }
+  ]
 }
