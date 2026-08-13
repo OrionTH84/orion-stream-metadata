@@ -1,9 +1,15 @@
 {
-  "updated_at_local": "",
-  "last_stream_end_state": "",
-  "next_stream_plan": "",
-  "title_thoughts": [],
-  "chat_prompts": [],
-  "essay_prompts": [],
-  "avoid_or_notes": ""
+  "schema_version": "2.0",
+  "updated_at_local": "2026-08-13 18:09",
+  "last_stream": {
+    "end_state": "",
+    "next_stream_plan": "",
+    "title_thoughts": [
+      "Coffin Uber Remains Deeply Suspicious"
+    ],
+    "chat_prompts": [],
+    "essay_prompts": [],
+    "misc_notes": ""
+  },
+  "backlog": []
 }
