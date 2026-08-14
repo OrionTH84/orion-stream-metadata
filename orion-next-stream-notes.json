@@ -1,13 +1,13 @@
 {
   "schema_version": "2.0",
-  "updated_at_local": "2026-08-13 19:44",
+  "updated_at_local": "2026-08-13 21:40",
   "last_stream": {
-    "end_state": "We cleared the Big Meaty Balls of Doom",
-    "next_stream_plan": "I have no idea, still stuck in the underground",
+    "end_state": "Cleared lake of rot and we are at the wormy boi boss.",
+    "next_stream_plan": "Kill the worm",
     "title_thoughts": [],
     "chat_prompts": [],
     "essay_prompts": [
-      "Economic consequenses of Coffin based travel"
+      "How Miyazaki uses Darkness / lack of light as a feature and as an \"enemy\" to force the player to slow down."
     ],
     "misc_notes": ""
   },
