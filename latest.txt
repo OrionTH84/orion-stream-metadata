@@ -2,17 +2,17 @@ ORION_TH LATEST TWITCH STREAM
 SOURCE: Twitch Helix via Streamer.bot
 CHANNEL: Orion_TH
 LOGIN: orion_th
-TITLE: Elden Ring First Playthrough | Beyond the Gargoyles, Taking the Creepy Coffin Upstream
+TITLE: Elden Ring First Playthrough | The Big Balls of Hell Are Dead. Now What?
 CATEGORY: ELDEN RING
 CATEGORY_ID: 512953
-CATEGORY_CONFIDENCE: channel_state_fallback
-STREAM_ID_MATCH: False
-CREATED_AT_UTC: 2026-08-10T22:25:59Z
-PUBLISHED_AT_UTC: 2026-08-10T22:25:59Z
-DURATION: 3h8m10s
-VIEW_COUNT: 76
-VOD_ID: 2842751523
-STREAM_ID: 320861900890
-VOD_URL: https://www.twitch.tv/videos/2842751523
-THUMBNAIL: https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/b817c858fe63f2235bf3_orion_th_320861900890_1786400753//thumb/thumb0-640x360.jpg
-GENERATED_AT_UTC: 2026-08-11T21:49:47.2478419Z
+CATEGORY_CONFIDENCE: verified_live_cache
+STREAM_ID_MATCH: True
+CREATED_AT_UTC: 2026-08-13T22:47:05Z
+PUBLISHED_AT_UTC: 2026-08-13T22:47:05Z
+DURATION: 2h57m40s
+VIEW_COUNT: 1
+VOD_ID: 2845481441
+STREAM_ID: 320846347097
+VOD_URL: https://www.twitch.tv/videos/2845481441
+THUMBNAIL: https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/e12a0b6372e5e33ae843_orion_th_320846347097_1786661218//thumb/thumb0-640x360.jpg
+GENERATED_AT_UTC: 2026-08-14T01:45:12.8976425Z
