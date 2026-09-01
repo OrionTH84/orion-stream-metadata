@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1",
-  "generated_at_utc": "2026-08-14T01:45:12.8976425Z",
+  "generated_at_utc": "2026-09-01T01:30:09.2289232Z",
   "source": "Twitch Helix via Streamer.bot",
   "channel": {
     "user_id": "135915727",
@@ -8,25 +8,25 @@
     "display_name": "Orion_TH"
   },
   "last_stream": {
-    "vod_id": "2845481441",
-    "stream_id": "320846347097",
-    "title": "Elden Ring First Playthrough | The Big Balls of Hell Are Dead. Now What?",
+    "vod_id": "2861948062",
+    "stream_id": "321149902553",
+    "title": "Elden Ring First Playthrough | Two Weeks Off. We Still Have a Worm to Kill",
     "category": "ELDEN RING",
     "category_id": "512953",
     "category_confidence": "verified_live_cache",
-    "cached_live_title": "Elden Ring First Playthrough | The Big Balls of Hell Are Dead. Now What?",
-    "cached_live_started_at_utc": "2026-08-13T22:46:58Z",
+    "cached_live_title": "Elden Ring First Playthrough | Two Weeks Off. We Still Have a Worm to Kill",
+    "cached_live_started_at_utc": "2026-08-31T22:45:00Z",
     "cache_source": "twitch_streams_live",
     "stream_id_match": true,
-    "created_at_utc": "2026-08-13T22:47:05Z",
-    "published_at_utc": "2026-08-13T22:47:05Z",
-    "duration": "2h57m40s",
-    "view_count": 1,
+    "created_at_utc": "2026-08-31T22:45:06Z",
+    "published_at_utc": "2026-08-31T22:45:06Z",
+    "duration": "2h44m50s",
+    "view_count": 0,
     "language": "en",
     "type": "archive",
     "viewable": "public",
-    "url": "https://www.twitch.tv/videos/2845481441",
-    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/e12a0b6372e5e33ae843_orion_th_320846347097_1786661218//thumb/thumb0-%{width}x%{height}.jpg",
-    "thumbnail_640x360": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/e12a0b6372e5e33ae843_orion_th_320846347097_1786661218//thumb/thumb0-640x360.jpg"
+    "url": "https://www.twitch.tv/videos/2861948062",
+    "thumbnail_url": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/faf201ceab2aad934f71_orion_th_321149902553_1788216300//thumb/thumb0-%{width}x%{height}.jpg",
+    "thumbnail_640x360": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/faf201ceab2aad934f71_orion_th_321149902553_1788216300//thumb/thumb0-640x360.jpg"
   }
 }
