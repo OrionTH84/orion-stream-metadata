@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "updated_at_local": "2026-08-13 21:40",
+  "updated_at_local": "2026-08-31 21:28",
   "last_stream": {
     "end_state": "Cleared lake of rot and we are at the wormy boi boss.",
     "next_stream_plan": "Kill the worm",
@@ -19,6 +19,16 @@
       "submitted_by": "souls40k",
       "source": "twitch_chat",
       "created_at_local": "2026-08-13 19:44",
+      "status": "open",
+      "completed_at_local": null
+    },
+    {
+      "id": "002",
+      "category": "sound_alert",
+      "text": "Stone Cold What!?!?",
+      "submitted_by": "orion_th",
+      "source": "twitch_chat",
+      "created_at_local": "2026-08-31 21:28",
       "status": "open",
       "completed_at_local": null
     }
