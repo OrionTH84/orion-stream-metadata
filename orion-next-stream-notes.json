@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "updated_at_local": "2026-08-31 21:28",
+  "updated_at_local": "2026-09-02 19:35",
   "last_stream": {
     "end_state": "Cleared lake of rot and we are at the wormy boi boss.",
     "next_stream_plan": "Kill the worm",
@@ -29,6 +29,16 @@
       "submitted_by": "orion_th",
       "source": "twitch_chat",
       "created_at_local": "2026-08-31 21:28",
+      "status": "open",
+      "completed_at_local": null
+    },
+    {
+      "id": "003",
+      "category": "channel_improvement",
+      "text": "Test to see if this is logged and assigned correctly",
+      "submitted_by": "orion_th",
+      "source": "twitch_chat",
+      "created_at_local": "2026-09-02 19:35",
       "status": "open",
       "completed_at_local": null
     }
