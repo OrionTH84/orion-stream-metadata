@@ -2,17 +2,17 @@ ORION_TH LATEST TWITCH STREAM
 SOURCE: Twitch Helix via Streamer.bot
 CHANNEL: Orion_TH
 LOGIN: orion_th
-TITLE: Elden Ring First Playthrough | Leyndell Ahead. First, This Suspicious Map.
+TITLE: Elden Ring First Playthrough | One Suspicious Map Later... Back to the Capital
 CATEGORY: ELDEN RING
 CATEGORY_ID: 512953
 CATEGORY_CONFIDENCE: verified_live_cache
 STREAM_ID_MATCH: True
-CREATED_AT_UTC: 2026-09-07T22:33:46Z
-PUBLISHED_AT_UTC: 2026-09-07T22:33:46Z
-DURATION: 2h54m0s
-VIEW_COUNT: 0
-VOD_ID: 2868210161
-STREAM_ID: 321325163738
-VOD_URL: https://www.twitch.tv/videos/2868210161
-THUMBNAIL: https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/d0d63c1ec33066a70234_orion_th_321325163738_1788820419//thumb/thumb0-640x360.jpg
-GENERATED_AT_UTC: 2026-09-08T01:28:05.4961835Z
+CREATED_AT_UTC: 2026-09-10T22:33:32Z
+PUBLISHED_AT_UTC: 2026-09-10T22:33:32Z
+DURATION: 3h3m10s
+VIEW_COUNT: 2
+VOD_ID: 2870756354
+STREAM_ID: 321479470427
+VOD_URL: https://www.twitch.tv/videos/2870756354
+THUMBNAIL: https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/c397d9b669563ae6862c_orion_th_321479470427_1789079605//thumb/thumb0-640x360.jpg
+GENERATED_AT_UTC: 2026-09-11T01:36:56.3641994Z
